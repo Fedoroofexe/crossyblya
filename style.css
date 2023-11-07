@@ -175,3 +175,17 @@ h3 {
     font-weight: 700;
     line-height: normal;
 }
+
+.link_social {
+    color: #000000;
+}
+.link_social:hover{
+    color: blue;
+}
+
+.header__container{
+    color: 100%;
+}
+.header__container:active{
+    color: gray 50%;
+}
